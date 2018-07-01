@@ -4,7 +4,10 @@ public class Test {
 	public static void main(String[] args) {
 		System.out.println("Hello World");
 		for (int i = 0; i < 100; i++) {
-			System.out.println("11111 :: "+i);
+			System.out.println("2222222 :: "+i);
+		}
+		for (int i = 0; i < 100; i++) {
+			System.out.println("2222222 :: "+i);
 		}
 	}
 }	
