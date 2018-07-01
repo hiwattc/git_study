@@ -6,5 +6,10 @@ public class Test {
 		for (int i = 0; i < 100; i++) {
 			System.out.println("11111 :: "+i);
 		}
+		
+		sayHello("Git TEST");
+	}
+	public static void sayHello(String word) {
+		System.out.println(word);
 	}
 }	
