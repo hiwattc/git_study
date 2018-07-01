@@ -14,5 +14,8 @@ public class Test {
 	}
 	public static void sayHello(String word) {
 		System.out.println(word);
+		System.out.println(word);
+		System.out.println(word);
+		System.out.println(word);
 	}
 }	
