@@ -8,6 +8,9 @@ public class Test {
 		}
 		
 		sayHello("Git TEST");
+		sayHello("Git TEST");
+		sayHello("Git TEST");
+		sayHello("Git TEST");
 	}
 	public static void sayHello(String word) {
 		System.out.println(word);
